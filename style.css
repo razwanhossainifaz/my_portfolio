@@ -1,0 +1,108 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0em;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+    margin-top: 200px;
+}
+.h3{
+    font-size: 150px;
+}
+.name-highlight{
+    color: #EC4C7A;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(50deg, #fd7eb3, #EC4C77);
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 800;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width2{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width2 img{
+    width: 100%;
+}
+#top-banner{
+    height: 500px;
+    padding-bottom: 400px;
+    display: inline-block;
+    background-image: url("img/header-bg.png");
+    background-repeat: no-repeat;
+}
+#top-banner img{
+    margin-top: 70px;
+}
+#second-part{
+    height: 500px;
+    padding-bottom: 400px;
+    display: inline-block;
+    background-image: url("img/biography-bg.png");
+    background-repeat: no-repeat;
+}
+#second-part h2{
+    margin-top: 300px;
+}
+.font-change{
+    font-family: 'Poppins', sans-serif;
+}
+.work-heading{
+    text-align: center;;
+    margin-top: 120px;
+}
+.work img{
+    width: 30%;
+    height: 30%;
+    float: left;
+    margin-left: 28px;
+    padding-left: 1%;
+    margin-bottom: 180px;
+}
+#experience-part{
+    height: 500px;
+    padding-bottom: 200px;
+    background-image: url("img/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+#client-part{
+    height: 500px;
+    padding-bottom: 400px;
+    background-image: url("img/footer-bg.png");
+    background-repeat: no-repeat;
+}
+.client{
+    text-align: center;
+}
+.link-button2 {
+    text-align: center;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(50deg, #fd7eb3, #EC4C77);
+    margin-left: 650px;
+    margin-top: 100px;
+    padding: 10px 200px;
+    border-radius: 5px;
+    font-weight: 800;
+}
+.copyright{
+    text-align: center;
+}
